@@ -1,4 +1,4 @@
-# EkidenBarChartRace
+# Ekiden Bar Chart Race
   This is the source code for creating a bar chart race animation of Hakone Ekiden Marathon Relay.  
 
 ## Example  
