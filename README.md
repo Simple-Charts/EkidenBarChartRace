@@ -17,7 +17,7 @@
 
 ## Usage  
   send commands in virtual environment of python  
-  &nbsp;&nbsp;cd {folder path}  
-  python 1_get_raw_data.py  
-  python 2_preprocess.py  
-  python 3_EkidenBarChartRace.py  
+  &nbsp;&nbsp;&nbsp;&nbsp; cd {folder path}  
+  &nbsp;&nbsp;&nbsp;&nbsp; python 1_get_raw_data.py  
+  &nbsp;&nbsp;&nbsp;&nbsp; python 2_preprocess.py  
+  &nbsp;&nbsp;&nbsp;&nbsp; python 3_EkidenBarChartRace.py  
