@@ -16,7 +16,7 @@
       conda install -c conda-forge opencv==3.4.1  
 
 ## Usage  
-  send commands in virtual environment of python  
+  Send the following commands in virtual environment of python  
   &nbsp;&nbsp;&nbsp;&nbsp; cd {folder path}  
   &nbsp;&nbsp;&nbsp;&nbsp; python 1_get_raw_data.py  
   &nbsp;&nbsp;&nbsp;&nbsp; python 2_preprocess.py  
