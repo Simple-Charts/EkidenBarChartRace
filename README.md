@@ -1,11 +1,11 @@
 # EkidenBarChartRace
-  This is the source code for creating a bar chart race animation of Hakone Ekiden Marathon Relay.
+  This is the source code for creating a bar chart race animation of Hakone Ekiden Marathon Relay.  
 
 ## Example  
-  [![Simple Charts / Hakone Ekiden Marathon Relay](https://img.youtube.com/vi/oZQfj7Tp0No/0.jpg)](https://www.youtube.com/watch?v=oZQfj7Tp0No "Simple Charts / Hakone Ekiden Marathon Relay")
+  [![Simple Charts / Hakone Ekiden Marathon Relay](https://img.youtube.com/vi/oZQfj7Tp0No/0.jpg)](https://www.youtube.com/watch?v=oZQfj7Tp0No "Simple Charts / Hakone Ekiden Marathon Relay")  
 
 ## Data Source
-  https://www.hakone-ekiden.jp/record/
+  https://www.hakone-ekiden.jp/record/  
 
 ## Setup  
   1. install Anaconda3-2020.02  
@@ -18,6 +18,6 @@
 ## Usage  
   send commands in virtual environment of python
     cd {folder path}  
-    python 1_get_raw_data.py
-    python 2_preprocess.py
-    python 3_EkidenBarChartRace.py
+    python 1_get_raw_data.py  
+    python 2_preprocess.py  
+    python 3_EkidenBarChartRace.py  
